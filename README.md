@@ -1,3 +1,7 @@
+# This repo acctually works by using docker
+docker pull remixproject/remix-ide:latest && docker run -p 8080:80 remixproject/remix-ide:latest
+### but this is not efficiant cause yarn install is not working so have find a another way or use this same docker way in my way
+
 <p align="center">
   <img src="./apps/remix-ide/src/assets/img/icon.png" alt="Remix Logo" width="200"/>
 </p>
